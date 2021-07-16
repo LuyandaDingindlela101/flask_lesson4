@@ -1,0 +1,26 @@
+body {
+    background: #e0e0e0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .image-container {
+    width: 50%;
+    margin-right: 50px;
+}
+
+.container .image-container img {
+    width: 100%;
+}
+
+.container .content-container {
+    width: 50%;
+}
+
+.container .content-container h1 {
+    font-size: 50px;
+}
